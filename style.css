@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Header */
+header {
+    background-color: #1e90ff;
+    color: white;
+    text-align: center;
+    padding: 30px 0;
+}
+
+/* Navigasi */
+nav {
+    background-color: #333;
+    text-align: center;
+    padding: 10px 0;
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* Section */
+section {
+    padding: 30px;
+    background-color: white;
+    margin: 20px;
+    border-radius: 8px;
+}
+
+/* Skill */
+ul {
+    list-style: square;
+    padding-left: 20px;
+}
+
+/* Card Projek */
+.card {
+    background-color: #f0f0f0;
+    padding: 15px;
+    margin-top: 15px;
+    border-radius: 6px;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #333;
+    color: white;
+}
